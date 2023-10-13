@@ -1,0 +1,18 @@
+Estructura Persona {
+    cadena nombre
+    entero edad
+    caracter genero
+}
+
+Proceso
+    Persona persona1
+   	nombre = "Juan"
+    	edad = 30
+    	genero = 'M'
+
+    impresor "Nombre: " + nombre
+    impresor "Edad: " + edad
+    impresor "Género: " + genero
+FinProceso
+
+// Esto es un comentario de línea
